@@ -1,0 +1,4 @@
+include 'org.xtext.example.mmlg'
+include 'org.xtext.example.mmlg.ide'
+include 'org.xtext.example.mmlg.web'
+include 'org.xtext.example.mmlg.tests'
